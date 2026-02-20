@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Master's graduate specialized in Control Technologies with a strong focus on industrial automation and control systems. 
+
+- Keen knowledge in PLC programming, SCADA designing and HMI programming.
+- Theoretical knowledge in Dynamic Process Control.
+- Practical experience in System Identification and Control system analysis.
+- Basic theoretical knowledge in Optimal Control and Model Predictive Control (MPC).
+- Programming knowledge in MATLAB, Python and C++.
+
+"I wish I can Control everything in this world"
+
 <!--
 **ThaGun/ThaGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
